@@ -13291,11 +13291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edmar\\source\\repos\\OfficePS\\OfficePS\\OfficePS.csproj",
+      "projectUniqueName": "C:\\Users\\edmar\\Source\\Repos\\Envio-Asp_net_core\\OfficePS\\OfficePS.csproj",
       "projectName": "OfficePS",
-      "projectPath": "C:\\Users\\edmar\\source\\repos\\OfficePS\\OfficePS\\OfficePS.csproj",
+      "projectPath": "C:\\Users\\edmar\\Source\\Repos\\Envio-Asp_net_core\\OfficePS\\OfficePS.csproj",
       "packagesPath": "C:\\Users\\edmar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edmar\\source\\repos\\OfficePS\\OfficePS\\obj\\",
+      "outputPath": "C:\\Users\\edmar\\Source\\Repos\\Envio-Asp_net_core\\OfficePS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

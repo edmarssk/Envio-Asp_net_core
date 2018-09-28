@@ -8,3 +8,14 @@ c:\users\edmar\source\repos\OfficePS\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.A
 c:\users\edmar\source\repos\OfficePS\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.AssemblyInfo.cs
 c:\users\edmar\source\repos\OfficePS\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.dll
 c:\users\edmar\source\repos\OfficePS\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.pdb
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\bin\Debug\netcoreapp2.0\OfficePS.deps.json
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\bin\Debug\netcoreapp2.0\OfficePS.runtimeconfig.json
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\bin\Debug\netcoreapp2.0\OfficePS.runtimeconfig.dev.json
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\bin\Debug\netcoreapp2.0\OfficePS.dll
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\bin\Debug\netcoreapp2.0\OfficePS.pdb
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.csprojAssemblyReference.cache
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.csproj.CoreCompileInputs.cache
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.AssemblyInfoInputs.cache
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.AssemblyInfo.cs
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.dll
+C:\Users\edmar\Source\Repos\Envio-Asp_net_core\OfficePS\obj\Debug\netcoreapp2.0\OfficePS.pdb
